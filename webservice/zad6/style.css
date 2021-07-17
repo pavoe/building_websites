@@ -1,0 +1,129 @@
+*{
+		font-family: arial, 'times new roman', verdana;
+		text-align: center;
+}
+
+html{
+		background-image: url(https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+		background-size: cover;
+		min-height: 100%;
+		min-width: auto;
+		height: auto;
+		width: 100%;
+}
+
+#link{
+		font-size: 13pt;
+}
+
+a:hover{
+		color: blue;
+}
+
+#return{
+		float: left;
+		width: 100%;
+}
+
+
+/* zad 6 */
+
+#bill{
+	width: 1300px;
+	margin-left: 290px;
+	margin-right: 290px;
+}
+
+#nr_fakt{
+	position: absolute;
+	left: 825px;
+	top: 272px;
+	font-size: 23pt;
+}
+
+#sprzedawca1{
+	position: absolute;
+	left: 555px;
+	top: 215px;
+	width: 230px;
+	text-align: left;
+}
+
+#sprzedawca2{
+	position: absolute;
+	left: 555px;
+	top: 248px;
+	width: 230px;
+	text-align: left;
+}
+
+#sprzedawca3{
+	position: absolute;
+	left: 555px;
+	top: 278px;
+	width: 230px;
+	text-align: left;
+}
+
+#sprzedawca4{
+	position: absolute;
+	left: 470px;
+	top: 357px;
+	font-size: 20pt;
+	letter-spacing: 7.8pt;
+	text-align: left;
+}
+
+#nabywca1{
+	position: absolute;
+	left: 1252px;
+	top: 215px;
+	width: 250px;
+	text-align: left;
+}
+
+#nabywca2{
+	position: absolute;
+	left: 1252px;
+	top: 248px;
+	width: 100px;
+	width: 250px;
+	text-align: left;
+}
+
+#nabywca3{
+	position: absolute;
+	left: 1252px;
+	top: 278px;
+	width: 250px;
+	text-align: left;
+}
+
+#nabywca4{
+	position: absolute;
+	left: 1198px;
+	top: 357px;
+	font-size: 20pt;
+	letter-spacing: 7.8pt;
+	text-align: left;
+}
+
+#miejscowosc{
+	position: absolute;
+	left: 900px;
+	top: 342px;
+}
+
+#data{
+	position: absolute;
+	left: 920px;
+	top: 370px;
+}
+
+#wystawca{
+	position: absolute;
+	left: 1110px;
+	top: 960px;
+	width: 400px;
+	text-align: left;
+}

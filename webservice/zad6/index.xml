@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="bill.xslt"?>
+
+<Dane xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--
+<Osoba>
+	<Imie>Jan</Imie>
+	<Nazwisko>Kowalski</Nazwisko>
+</Osoba>
+<Osoba>
+	<Imie>Piotr</Imie>
+	<Nazwisko>Janowski</Nazwisko>
+</Osoba>
+<Osoba>
+	<Imie>Anna</Imie>
+	<Nazwisko>Piotrowska</Nazwisko>
+</Osoba>
+-->
+
+<Nr_faktury>
+	128433
+</Nr_faktury>
+
+<Sprzedawca>
+	<Nazwa>
+		Hurtownia Elektroniki ZYX
+	</Nazwa>
+	<Adres1>
+		ul. Myśliwiecka 10
+	</Adres1>
+	<Adres2>
+		88-120 Lublin
+	</Adres2>
+	<NIP>
+		1234098001314
+	</NIP>
+</Sprzedawca>
+
+<Nabywca>
+	<Nazwa>
+		Sklep komputerowy XYZ
+	</Nazwa>
+	<Adres1>
+		ul. Jagielońska 3/4C
+	</Adres1>
+	<Adres2>
+		30-567 Kraków
+	</Adres2>
+	<NIP>
+		3832098001314
+	</NIP>
+</Nabywca>
+
+<Miejscowosc>Warszawa</Miejscowosc>
+<Data>21.04.2021</Data>
+
+<Wystawca>Piotr Kowalczyk</Wystawca>
+
+  
+</Dane>
